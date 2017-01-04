@@ -1,7 +1,6 @@
 # Tentative Website for ZJ Future US
 ZJ Future US, also known as Hangzhou Innovation Center, is an international venture and innovation platform. 
-https://www.zjfutureus.com/.
-https://uszj.maodou.io/.
+https://www.zjfutureus.com/
 
 
 ### Template:
